@@ -1,6 +1,6 @@
 jQuery(function () {
     'use strict';
-    var js_video_url = 'https://bornforthis.cn/video/why_code/why.m3u8';
+    var js_video_url = 'https://video.aiyc.top/GuGO/01/video1168674496.m3u8';
     var js_video_pic = '';
     var js_video_content = '<div class="content-do-video"><div class="views text-muted"><span class="badge badge-light note"><i class="fa fa-info-circle"></i> 暂无权限播放</span></div></div>';
     const dp = new DPlayer({
