@@ -7,3 +7,6 @@ https://video.aiyc.top/GuGO/da74ee45-f6f4-45dd-b8ad-828cc6989d39/video1400759737
 ```url
 https://video.aiyc.top/GuGO/4c3f87ea-a1b4-41da-a910-b4ebb683341e/video1156600770.m3u8
 ```
+```url
+https://video.aiyc.top/GuGO/0cf1f61a-e3c8-427f-9100-309b8fa8f0c5/video1311820455.m3u8
+```
