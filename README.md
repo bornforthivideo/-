@@ -10,3 +10,6 @@ https://video.aiyc.top/GuGO/4c3f87ea-a1b4-41da-a910-b4ebb683341e/video1156600770
 ```url
 https://video.aiyc.top/GuGO/0cf1f61a-e3c8-427f-9100-309b8fa8f0c5/video1311820455.m3u8
 ```
+```url
+https://video.aiyc.top/GuGO/1f478ad0-685f-4b5b-a6b2-08d744179ed0/video1193338600.m3u8
+```
